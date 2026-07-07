@@ -2,7 +2,7 @@
 
 Building intelligent AI solutions and beautiful web interfaces with a passion for turning data into actionable insights.
 
----
+------------------
 
 ## 🚀 About Me
 
