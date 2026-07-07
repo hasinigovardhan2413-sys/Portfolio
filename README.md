@@ -14,7 +14,7 @@ Currently exploring:
 - 🎨 **Frontend Development** & UI Design  
 - 📚 **Data Visualization** and Analytics
 
----
+------------------------
 
 ## 💻 Tech Stack
 
@@ -30,7 +30,7 @@ Currently exploring:
 **Tools & Platforms:**
 - Git & GitHub • VS Code • Jupyter Notebook
 
----
+-------------------
 
 ## 📁 Featured Projects
 
