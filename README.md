@@ -54,8 +54,6 @@ Exploration of complex machine learning algorithms and their applications in rea
 - **Tech:** Python, ML, Jupyter
 - **Repository:** [View on GitHub](https://github.com/hasinigovardhan2413-sys/SCT_ML_3)
 
----
-
 ## 🎯 What I'm Currently Working On
 
 - Developing advanced AI agents with reinforcement learning
